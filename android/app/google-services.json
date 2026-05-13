@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "648963347584",
+    "project_id": "gemini-test-1173a",
+    "storage_bucket": "gemini-test-1173a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648963347584:android:668e847163a8f485774265",
+        "android_client_info": {
+          "package_name": "com.example.gemini_live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1ODcRlMyKGLwHPfTNdzT2Bn2MszWLsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648963347584:android:87308d550acfeabe774265",
+        "android_client_info": {
+          "package_name": "com.example.intro_to_genui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1ODcRlMyKGLwHPfTNdzT2Bn2MszWLsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648963347584:android:6f64b12ec571de4e774265",
+        "android_client_info": {
+          "package_name": "io.flutter.plugins.firebase.ai.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1ODcRlMyKGLwHPfTNdzT2Bn2MszWLsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
