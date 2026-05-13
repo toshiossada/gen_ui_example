@@ -11,7 +11,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final TextEditingController _newTaskController = TextEditingController();
+  final _newTaskController = TextEditingController();
   final List<TaskItemData> _tasks = [];
 
   @override
